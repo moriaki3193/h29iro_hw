@@ -1,0 +1,28 @@
+ # syslen=3 jrel=10 jnonrel=0
+ # r1=1 rp=1
+ RR=                 1.0000
+ OMeasure=           1.0000
+ PMeasure=           1.0000
+ PPlusMeasure=       1.0000
+ AP=                 0.3000
+ QMeasure=           0.2417
+ NCUguP=             0.2778
+ NCUguBR=            0.2454
+ NCUrbP=             0.3554
+ NCUrbBR=            0.2884
+ RBP=                0.0809
+ ERR=                0.7969
+ AP@0001=            1.0000
+ QMeasure@0001=      1.0000
+ nDCG@0001=          1.0000
+ MSnDCG@0001=        1.0000
+ Precision@0001=     1.0000
+ nERR@0001=          1.0000
+ Hit@0001=           1.0000
+ AP@0003=            1.0000
+ QMeasure@0003=      0.8056
+ nDCG@0003=          0.5867
+ MSnDCG@0003=        0.6462
+ Precision@0003=     1.0000
+ nERR@0003=          0.9273
+ Hit@0003=           1.0000
